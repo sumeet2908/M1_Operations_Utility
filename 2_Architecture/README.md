@@ -5,4 +5,4 @@
 * structure
 * behavioural
       * flowchart
-      * use case diagram
+      * use case diagrams

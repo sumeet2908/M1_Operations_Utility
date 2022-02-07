@@ -6,4 +6,4 @@
 
 
 ## Table
-* ID,description of test case,input values,expected output and actual output      
+* ID,description of test case,input values,expected output and actual output 
