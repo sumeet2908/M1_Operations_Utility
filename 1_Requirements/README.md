@@ -1,4 +1,4 @@
-## DEscription
+## Description
 * about project
   * calculator is a project to allow users to calculate basic operations in mathematics , this Project which I'm Implementing ,also included three additional operations such as Factorial, Power ,modulas etc .However, the input has to be in the form numbers.
   ( i.e 2+3,2-3,10%5,2^4 )
