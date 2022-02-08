@@ -2,7 +2,7 @@
 * about project
   * calculator is a project to allow users to calculate basic operations in mathematics , this Project which I'm Implementing ,also included three additional operations such as Factorial, Power ,modulas etc .However, the input has to be in the form numbers.
   ( i.e 2+3,2-3,10%5,2^4 )
-  * The input includes the command such as we can give numbers based on the operation.we give 1 as a  command and that particular operation works.Moreover, this calculator is fast enough to operate all operations.in short it follow the logic. 
+  * The input includes the command such as we can give numbers based on the operation.we give 1 as a  command and that particular operation works.Moreover, this calculator is fast enough to operate all operations.in short it follow the proper logic. 
 
 ## Requirements
 
