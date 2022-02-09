@@ -29,5 +29,5 @@
      * The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
 
-## 5W's and 4H's
+## 5W's and 1H's
   * 
