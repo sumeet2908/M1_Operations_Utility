@@ -1,15 +1,36 @@
 ## Description
-* about project
-  * calculator is a project to allow users to calculate basic operations in mathematics , this Project which I'm Implementing ,also included three additional operations such as Factorial, Power ,modulas etc .However, the input has to be in the form numbers.
-  ( i.e 2+3,2-3,10%5,2^4 )
+
+* About project
+
+  * calculator is a project to allow users to calculate basic operations in mathematics , this Project which I am Implementing ,a included additional,subtraction,division,square,modulas etc .However, the input has to be in the form numbers.
+  ( i.e 2+3,2-1)
+
   * The input includes the command such as we can give numbers based on the operation.we give 1 as a  command and that particular operation works.Moreover, this calculator is fast enough to operate all operations.in short it follow the proper logic. 
 
 ## Requirements
 
 ## High Level Requirements
-
-
+________________________________________________________________________________________
+ID	 | Description                                            |	Category  |	Status      |
+HR01 |	User shall be able to specify their operation choice. | Technical |	IMPLEMENTED |
+HR02 |	User shall be able to add the numbers	                | Techincal |	IMPLEMENTED |
+HR03 |	User shall be able to subtract the numbers            | Techincal |	IMPLEMENTED |
+HR04 |	User shall be able to multiply the number             | Techincal |	IMPLEMENTED |
+HR05 |	User shall be able to find division,                  | Techincal |	IMPLEMENTED |
+     |   square and modulus.                                  | Technical |	IMPLEMENTED |
+_____|________________________________________________________|___________|_____________|
+   
+                          
 ## Low Level Requirements
+________________________________________________________________________________________
+ID	 | Description                                            |	Category  |	Status      |
+HR01 |	User shall be able to specify their operation choice. | Technical |	IMPLEMENTED |
+HR02 |	User shall be able to add the numbers	                | Techincal |	IMPLEMENTED |
+HR03 |	User shall be able to subtract the numbers            | Techincal |	IMPLEMENTED |
+HR04 |	User shall be able to multiply the number             | Techincal |	IMPLEMENTED |
+HR05 |	User shall be able to find division,                  | Techincal |	IMPLEMENTED |
+     |   square and modulus.                                  | Technical |	IMPLEMENTED |
+_____|________________________________________________________|___________|_____________|
 
 
 ## SWOT
@@ -30,4 +51,26 @@
 
 
 ## 5W's and 1H's
-  * 
+
+  * Who:
+
+    Students who want to solve  problems for their academic work
+   
+
+  * What:
+
+    Calculate the addition,subtraction,multiplication,square,modulus and divide.
+
+  * When:
+
+    Students facing a difficulty in solving problem,they can use this program to get their outputs.
+    user getting a quick calculation output,Comes to a great use when calculating for problems.
+
+  * Where:
+
+    Students, employees and researchers all over the world.
+
+  * How:
+
+    This program can be executed in a system which has Linux or Windows operating system.
+    
