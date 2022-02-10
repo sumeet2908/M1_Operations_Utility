@@ -4,33 +4,35 @@
 
   * calculator is a project to allow users to calculate basic operations in mathematics , this Project which I am Implementing ,a included additional,subtraction,division,square,modulas etc .However, the input has to be in the form numbers.
   ( i.e 2+3,2-1)
-
   * The input includes the command such as we can give numbers based on the operation.we give 1 as a  command and that particular operation works.Moreover, this calculator is fast enough to operate all operations.in short it follow the proper logic. 
+# Feature
+•	we can calulate very fast
+•	we can see the display,which operation to do 
+•	it is easy to use
+•	On encountering a division by 0 the display should read "Cannot divide by 0" 
 
 ## Requirements
 
 ## High Level Requirements
-________________________________________________________________________________________
-ID	 | Description                                            |	Category  |	Status      |
-HR01 |	User shall be able to specify their operation choice. | Technical |	IMPLEMENTED |
-HR02 |	User shall be able to add the numbers	                | Techincal |	IMPLEMENTED |
-HR03 |	User shall be able to subtract the numbers            | Techincal |	IMPLEMENTED |
-HR04 |	User shall be able to multiply the number             | Techincal |	IMPLEMENTED |
-HR05 |	User shall be able to find division,                  | Techincal |	IMPLEMENTED |
-     |   square and modulus.                                  | Technical |	IMPLEMENTED |
-_____|________________________________________________________|___________|_____________|
+|ID	 | Description                                            |	Category  |	Status      |
+|:--:|:------------------------------------------------------:|:---------:|:-----------:|
+|HR01|	User shall be able to specify their operation choice.  | Technical |	IMPLEMENTED |
+|HR02|	User shall be able to add the numbers	                 | Techincal |	IMPLEMENTED |
+|HR03|	User shall be able to subtract the numbers             | Techincal |	IMPLEMENTED |
+|HR04|	User shall be able to multiply the number              | Techincal |	IMPLEMENTED |
+|HR05|	User shall be able to find division,                   | Techincal |	IMPLEMENTED |
+|     |   square and modulus.                                 | Technical |	IMPLEMENTED |
+
    
                           
 ## Low Level Requirements
-________________________________________________________________________________________
-ID	 | Description                                            |	Category  |	Status      |
-HR01 |	User shall be able to specify their operation choice. | Technical |	IMPLEMENTED |
-HR02 |	User shall be able to add the numbers	                | Techincal |	IMPLEMENTED |
-HR03 |	User shall be able to subtract the numbers            | Techincal |	IMPLEMENTED |
-HR04 |	User shall be able to multiply the number             | Techincal |	IMPLEMENTED |
-HR05 |	User shall be able to find division,                  | Techincal |	IMPLEMENTED |
-     |   square and modulus.                                  | Technical |	IMPLEMENTED |
-_____|________________________________________________________|___________|_____________|
+_______________________________________________________________________________________
+| ID |    Description                                                                                                                      |Category  | status
+|:--:|:-----------------------------------------------------------------------------------------------------------------------------------:|:--------:|:-----------:|
+|LR01|    Addition of two number can be done                                                                                              .|Technical |IMPLEMENTED
+|LRO2|  Subtraction of two numbers is implemented in the same manner as addition                                                           |Technical |IMPLEMENTED                                                                         
+|LR03|   Multiplication,division,modulus of two numbers is done                                                                            |Technical |IMPLEMENTED                                                     
+|                                                                                          
 
 
 ## SWOT
