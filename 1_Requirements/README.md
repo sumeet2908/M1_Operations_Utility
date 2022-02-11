@@ -2,8 +2,7 @@
 
 * About project
 
-  * calculator is a project to allow users to calculate basic operations in mathematics , this Project which I am Implementing ,a included additional,subtraction,division,square,modulas etc .However, the input has to be in the form numbers.
-  ( i.e 2+3,2-1)
+  * Calculator is a project to allow users to calculate basic operations in mathematics ,In this Project which I am Implementing ,it included additional ,subtraction ,division ,square , modulas etc .However, the input has to be from user.
   * The input includes the command such as we can give numbers based on the operation.we give 1 as a  command and that particular operation works.Moreover, this calculator is fast enough to operate all operations.in short it follow the proper logic. 
 # Feature
 *	we can calulate very fast
