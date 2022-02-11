@@ -6,10 +6,10 @@
   ( i.e 2+3,2-1)
   * The input includes the command such as we can give numbers based on the operation.we give 1 as a  command and that particular operation works.Moreover, this calculator is fast enough to operate all operations.in short it follow the proper logic. 
 # Feature
-•	we can calulate very fast
-•	we can see the display,which operation to do 
-•	it is easy to use
-•	On encountering a division by 0 the display should read "Cannot divide by 0" 
+*	we can calulate very fast
+*	we can see the display,which operation to do 
+*	it is easy to use
+*	On encountering a division by 0 the display should read "Cannot divide by 0" 
 
 ## Requirements
 
