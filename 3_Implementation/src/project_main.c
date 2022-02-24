@@ -1,18 +1,9 @@
-  /**
- * @file project_main.c
- * @author SUMEET ()
- * @brief 
- * @version 0.1
- * @date 2022-02-10
- * 
- * @copyright Copyright (c) 2022
- * 
- */
-  
   #include "calculator.h"
+extern void test_main();
+
 int main()
 {
-    // variables
+    #if 0
     int ch;
     do
     {
@@ -47,7 +38,7 @@ int main()
             break; // break the function
 
         case 6:
-            mod(); // It call the sqrt1()
+            mod(); // It call the mod()
             break; // break the function
 
         case 7:
@@ -60,25 +51,9 @@ int main()
     }
     printf (" \n \n **************** \n ");
     } while (ch != 7);
+    #else
+    test_main();
+    #endif
 
-
-    return 0;
-}
-
-
-
-// function definition
-int addition()
-{
-    int i, sum = 0, num, f_num; // declare a local variable
-    printf (" How many numbers you want to add: ");
-    scanf ("%d", &num);
-    printf (" Enter the numbers: \n ");
-    for (i = 1; i <= num; i++)
-    {
-        scanf(" %d", &f_num);
-        sum = sum + f_num;
-    }
-    printf (" Total Sum of the numbers = %d", sum);
     return 0;
 }
