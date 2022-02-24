@@ -1,5 +1,5 @@
- /**
- * @file project_main.c
+/**
+ * @file calculator.h
  * @author SUMEET ()
  * @brief 
  * @version 0.1
@@ -8,8 +8,9 @@
  * @copyright Copyright (c) 2022
  * 
  */
-#ifndef CALCULATOR_H_
-#define CALCULATOR_H_
+
+#ifndef calculator_h_
+#define calculator_h_
 
 #include <stdio.h>
 #include <math.h>
@@ -23,12 +24,5 @@ int divide();
 int sq();
 int mod();
 void exit();
-
-int addition()
-int subtract()
-int multiply()
-int divide()
-int sq()
-int mod()
 
 #endif
