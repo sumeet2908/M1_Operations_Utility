@@ -29,3 +29,26 @@
 |  6_ImageAndVideo      |  Image of output
 |  7_Other              |   References
   
+# High Level Requirements
+|ID	 | Description                                            |	
+|:--:|:------------------------------------------------------:|
+|HLR1| It should lock the car door
+|HLR2| It should un lock the car door	
+|HLR3| It alarm should ring when 	
+|HLR4| The aproach light should glow
+
+                            
+## Low Level Requirements
+_______________________________________________________________________________________
+| ID |    Description                                                                                                                      |
+|:--:|:-----------------------------------------------------------------------------------------------------------------------------------:|
+|LLR1|                                                                                 
+|LLR2|                                                                                                                          
+|LLR3|                                                                                                                     
+|LLR4|                                                                                         
+|LLR5|  
+
+Print lock – (Blue switch on- All led on at the same time)
+Print unlock - (Blue switch press two times- All led off at the same time)
+Print alarm activation/deactivation - (Blue switch press three times- All led on in clockwise manner)
+Print approach light - (Blue switch press four times- All led on in anti-clockwise manner)
